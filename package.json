@@ -1,6 +1,6 @@
 {
   "name": "secure-pubsub-bridge",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Encrypt and transmit Google Cloud Pub/Sub messages securely using RSA.",
   "main": "index.js",
   "scripts": {
