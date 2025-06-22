@@ -1,0 +1,36 @@
+{
+  "name": "secure-pubsub-bridge",
+  "version": "0.1.2",
+  "description": "Encrypt and transmit Google Cloud Pub/Sub messages securely using RSA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests defined.\" && exit 0"
+  },
+  "keywords": [
+    "google-cloud",
+    "pubsub",
+    "encryption",
+    "rsa",
+    "security",
+    "cybersecurity",
+    "pki",
+    "cloudrun",
+    "workflow",
+    "secure-messaging"
+  ],
+  "author": "Raghava Chellu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RaghavaCh440/secure-pubsub-bridge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RaghavaCh440/secure-pubsub-bridge/issues"
+  },
+  "homepage": "https://github.com/RaghavaCh440/secure-pubsub-bridge#readme",
+  "dependencies": {
+    "@google-cloud/pubsub": "^3.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
+
